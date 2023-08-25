@@ -13,11 +13,6 @@ Global Reach: Discover our diverse industry partnerships and our extensive geogr
 
 Social Engagement: Stay connected through our social media links in the footer.
 
-Contribute and Collaborate:
-
-We encourage collaboration from the open-source community to enhance and refine this website further. Feel free to explore, contribute, or report issues. Together, we can create an exceptional online presence that mirrors the excellence of our market research services.
-
-Join us on this exciting journey of web development!
 
 
 
